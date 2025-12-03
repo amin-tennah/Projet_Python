@@ -7,3 +7,7 @@ Carte de chaleur accident avec type accident
 Camembert avec paramètre de chaussé
 histogramme comparaison accidents agglomération et hors aglomération 
 graphique distribution d'horaire
+
+Faire le clean de la database
+Commencer a créer le dash et regarder les dépendance
+faire des test 
