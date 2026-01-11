@@ -1,0 +1,26 @@
+Num_Acc,date,hour,agg,agg_label,lat,long,surf,surface_label,lum,lighting_label,lighting_group,severity_code,severity_label,victim_count
+202200000001,2022-01-05,8,2,En agglomeration,48.8566,2.3522,2,Mouillee,1,Plein jour,Lumiere naturelle,4,Blesse leger,2
+202200000002,2022-01-12,19,1,Hors agglomeration,47.2184,-1.5536,1,Normale,5,Nuit avec eclairage public allume,Eclairage public,3,Blesse hospitalise,1
+202200000003,2022-02-03,6,2,En agglomeration,43.6047,1.4442,3,Flaques,2,Crepuscule ou aube,Lumiere naturelle,4,Blesse leger,1
+202200000004,2022-02-20,23,1,Hors agglomeration,45.764,4.8357,7,Verglas,3,Nuit sans eclairage public,Sans eclairage public,2,Tue,3
+202200000005,2022-03-10,14,2,En agglomeration,43.2965,5.3698,1,Normale,1,Plein jour,Lumiere naturelle,1,Indemne,1
+202200000006,2022-03-28,2,3,Autre,50.6292,3.0573,6,Boue,4,Nuit avec eclairage public non allume,Sans eclairage public,3,Blesse hospitalise,2
+202200000007,2022-04-15,11,2,En agglomeration,44.8378,-0.5792,4,Inondee,1,Plein jour,Lumiere naturelle,4,Blesse leger,1
+202200000008,2022-04-22,17,1,Hors agglomeration,48.5734,7.7521,1,Normale,1,Plein jour,Lumiere naturelle,3,Blesse hospitalise,2
+202200000009,2022-05-01,9,2,En agglomeration,47.322,5.0415,2,Mouillee,2,Crepuscule ou aube,Lumiere naturelle,4,Blesse leger,2
+202200000010,2022-05-19,21,1,Hors agglomeration,49.2583,4.0317,8,Corps gras,5,Nuit avec eclairage public allume,Eclairage public,2,Tue,1
+202200000011,2022-06-07,16,2,En agglomeration,43.7102,7.262,1,Normale,1,Plein jour,Lumiere naturelle,4,Blesse leger,1
+202200000012,2022-06-30,5,1,Hors agglomeration,48.1173,-1.6778,3,Flaques,3,Nuit sans eclairage public,Sans eclairage public,3,Blesse hospitalise,2
+202200000013,2022-07-04,13,2,En agglomeration,45.1885,5.7245,1,Normale,1,Plein jour,Lumiere naturelle,4,Blesse leger,1
+202200000014,2022-07-18,0,3,Autre,44.9334,4.8924,9,Autre,4,Nuit avec eclairage public non allume,Sans eclairage public,1,Indemne,1
+202200000015,2022-08-09,10,1,Hors agglomeration,48.3904,-4.4861,2,Mouillee,1,Plein jour,Lumiere naturelle,3,Blesse hospitalise,1
+202200000016,2022-08-25,18,2,En agglomeration,49.4944,0.1079,1,Normale,2,Crepuscule ou aube,Lumiere naturelle,4,Blesse leger,2
+202200000017,2022-09-12,7,1,Hors agglomeration,46.1603,-1.1511,5,Enneigee,2,Crepuscule ou aube,Lumiere naturelle,2,Tue,2
+202200000018,2022-09-29,15,2,En agglomeration,47.9025,1.909,1,Normale,1,Plein jour,Lumiere naturelle,1,Indemne,1
+202200000019,2022-10-14,20,1,Hors agglomeration,46.2276,2.2137,4,Inondee,5,Nuit avec eclairage public allume,Eclairage public,4,Blesse leger,3
+202200000020,2022-11-03,12,2,En agglomeration,48.6921,6.1844,7,Verglas,1,Plein jour,Lumiere naturelle,3,Blesse hospitalise,1
+202200000021,2022-11-21,22,1,Hors agglomeration,48.1147,-1.6794,6,Boue,3,Nuit sans eclairage public,Sans eclairage public,2,Tue,2
+202200000022,2022-12-05,17,2,En agglomeration,45.7772,3.087,2,Mouillee,2,Crepuscule ou aube,Lumiere naturelle,4,Blesse leger,1
+202200000023,2022-12-18,4,1,Hors agglomeration,48.2082,-4.0949,8,Corps gras,4,Nuit avec eclairage public non allume,Sans eclairage public,1,Indemne,1
+202200000024,2022-12-31,23,3,Autre,45.8992,6.1294,5,Enneigee,5,Nuit avec eclairage public allume,Eclairage public,3,Blesse hospitalise,2
+
